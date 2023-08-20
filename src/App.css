@@ -38,15 +38,25 @@
 }
 
 .photo {
-  height:80px;
-  width: 250px;
-  margin-bottom: 50;
+  height:150px;
+  width: 500px;
+  /* margin-bottom: 50; */
 }
 
-.form {
+/* .form {
   margin: auto;
+} */
+
+.form_text{
+  text-align: center;
 }
 
 .padding{
   padding: 5px;
+}
+
+.fit {
+  width: fit-content;
+  text-align: center;
+  margin: auto;
 }

@@ -49,8 +49,8 @@ const[eTime, seteTime] = useState('');
 
 //4. Linking the Form Inputs/Options to the Form State
     return (
-        <form className='form' onSubmit={handleSubmit}>
-            <div>
+        <form className='fit' onSubmit={handleSubmit}>
+            <div className='form_text'>
                 <label htmlFor='name'>Trainer Name: </label>
                 {/* <input type='text' id="name" value={name1} onChange={(e)=>setName1(e.target.value)}/> */}
                 &nbsp; &nbsp;
@@ -60,7 +60,7 @@ const[eTime, seteTime] = useState('');
                 </select>
             </div>
 
-            <div>
+            <div className='form_text'>
                 <label htmlFor='date'>Date: </label>
                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
                 <input type='date' id="date" value={date} onChange={(e)=>setDate(e.target.value)}/>
