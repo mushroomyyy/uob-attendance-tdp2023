@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/uob-attendance-tdp2023/static/css/main.e6c83755.css",
+    "main.js": "/uob-attendance-tdp2023/static/js/main.1b47f205.js",
+    "static/js/787.d06df960.chunk.js": "/uob-attendance-tdp2023/static/js/787.d06df960.chunk.js",
+    "static/media/2560px-UOB_Logo.svg.png": "/uob-attendance-tdp2023/static/media/2560px-UOB_Logo.svg.34a963b9c7a7d4f759d1.png",
+    "index.html": "/uob-attendance-tdp2023/index.html",
+    "main.e6c83755.css.map": "/uob-attendance-tdp2023/static/css/main.e6c83755.css.map",
+    "main.1b47f205.js.map": "/uob-attendance-tdp2023/static/js/main.1b47f205.js.map",
+    "787.d06df960.chunk.js.map": "/uob-attendance-tdp2023/static/js/787.d06df960.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c83755.css",
+    "static/js/main.1b47f205.js"
+  ]
+}
