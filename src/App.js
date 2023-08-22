@@ -17,7 +17,7 @@ function App() {
       
 
       
-      <h3>*Note that if you input the session timing incorrectly,</h3>
+      <h3>*Note that if you do not use a <strong>Chrome/Chrome-related</strong> browser,</h3>
       <h3>the link will be invalid and the QR code will not appear!</h3>
       
 
