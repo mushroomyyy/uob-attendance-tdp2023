@@ -10,7 +10,7 @@ In order for the programme to work,
 2. change directory (cd) to the current folder (uob...)
 3. type in the terminal/copypasta: "npm install react-scripts"  << without the parenthesis
 4. type npm start in the terminal
-5. Voila! it works! (if it doesn't you can let me know (:)
+5. Voila! it works! if it doesn't you can let me know :>
 
 PS: If you have not downloaded bootstrap/your computer cannot load the bootstrap packages, you might face some errors as well. In that case:
 type "npm install bootstrap" / "npm add react-bootstrap"
