@@ -23,7 +23,7 @@ const[eTime, seteTime] = useState('');
     const handleSubmit = (e) => {
         e.preventDefault();
 
-        const url = `https://trainer.ntuclearninghub.com/QR/attendance?id=${name1}&date=${date}&start_time=${Date.parse(`${date} ${sTime} GMT+8 /1000`)}&end_time=${Date.parse(`${date} ${eTime} GMT+8 /1000`)}`;
+        const url = `https://trainer.ntuclearninghub.com/QR/attendance?id=${name1}&date=${date}&start_time=${Date.parse(`${date} ${sTime} GMT+8`)/1000}&end_time=${Date.parse(`${date} ${eTime} GMT+8`)/1000}`;
         console.log(url);
 
         setName1('');
