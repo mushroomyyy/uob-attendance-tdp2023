@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/uob-attendance-tdp2023/static/css/main.17ab1c1c.css",
-    "main.js": "/uob-attendance-tdp2023/static/js/main.da026751.js",
+    "main.js": "/uob-attendance-tdp2023/static/js/main.d15dad3c.js",
     "static/js/787.d06df960.chunk.js": "/uob-attendance-tdp2023/static/js/787.d06df960.chunk.js",
     "static/media/sik pic.png": "/uob-attendance-tdp2023/static/media/sik pic.34a963b9c7a7d4f759d1.png",
     "index.html": "/uob-attendance-tdp2023/index.html",
     "main.17ab1c1c.css.map": "/uob-attendance-tdp2023/static/css/main.17ab1c1c.css.map",
-    "main.da026751.js.map": "/uob-attendance-tdp2023/static/js/main.da026751.js.map",
+    "main.d15dad3c.js.map": "/uob-attendance-tdp2023/static/js/main.d15dad3c.js.map",
     "787.d06df960.chunk.js.map": "/uob-attendance-tdp2023/static/js/787.d06df960.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.17ab1c1c.css",
-    "static/js/main.da026751.js"
+    "static/js/main.d15dad3c.js"
   ]
 }
