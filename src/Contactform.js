@@ -67,7 +67,7 @@ const[eTime, seteTime] = useState('');
             </div>
 
 <Button variant="info" onClick={handleClickMorning}> Morning Session: 09:00 - 12:30 </Button>{' '}
-<Button variant="info"  onClick={handleClickAfternoon}>Afternoon Session: 13:30 - 15:00</Button>{' '}
+<Button variant="info"  onClick={handleClickAfternoon}>Afternoon Session: 13:30 - 17:00</Button>{' '}
 
             <div>
             <Button variant="light"><button type='submit'>Submit</button></Button>
