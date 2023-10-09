@@ -36,7 +36,7 @@ const[eTime, seteTime] = useState('');
 
     const handleClickMorning = () => {
         setsTime('09:00:00');
-        seteTime('13:00:00');
+        seteTime('12:30:00');
     }
 
 
@@ -66,7 +66,7 @@ const[eTime, seteTime] = useState('');
                 <input type='date' id="date" value={date} onChange={(e)=>setDate(e.target.value)}/>
             </div>
 
-<Button variant="info" onClick={handleClickMorning}> Morning Session: 08:00 - 13:00 </Button>{' '}
+<Button variant="info" onClick={handleClickMorning}> Morning Session: 09:00 - 12:30 </Button>{' '}
 <Button variant="info"  onClick={handleClickAfternoon}>Afternoon Session: 14:00 - 18:00</Button>{' '}
 
             <div>
