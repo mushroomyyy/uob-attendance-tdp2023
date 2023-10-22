@@ -36,13 +36,13 @@ const[eTime, seteTime] = useState('');
 
     const handleClickMorning = () => {
         setsTime('09:00:00');
-        seteTime('12:30:00');
+        seteTime('13:00:00');
     }
 
 
     const handleClickAfternoon = () => {
-        setsTime('13:30:00');
-        seteTime('17:00:00');
+        setsTime('14:00:00');
+        seteTime('17:30:00');
     }
 
 
